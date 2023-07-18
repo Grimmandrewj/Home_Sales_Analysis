@@ -1,6 +1,6 @@
 ## Goal
-- In this assignment, I was tasked with utilizing SparkSQL to determine key metrics about home sales today
-- I was to use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table was uncached
+- In this assignment, I was tasked with utilizing SparkSQL to determine key metrics about home sales today.
+- I was to use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table was uncached.
 - The data consisted of ID number of the purchase, date of purchase, date the home was built, price, number of bedrooms, bathrooms, and floors, square footage, view rating, etc. 
 
 ## Method
