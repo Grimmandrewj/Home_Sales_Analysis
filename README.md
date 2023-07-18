@@ -4,7 +4,7 @@
 - The data consisted of ID number of the purchase, date of purchase, date the home was built, price, number of bedrooms, bathrooms, and floors, square footage, view rating, etc. 
 
 ## Method
-- Initially I imported findspark and pyspark and assigned a variable to the provided url: https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv
+- Initially I imported findspark and pyspark and assigned a variable to the provided url: https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv.
 - I then read in the AWS S3 bucket into a DataFrame and displayed the result: 
 
 ![image](https://github.com/Grimmandrewj/Home_Sales/assets/120341249/678cb718-8bca-4bf0-8b49-cb2ae560cdd0)
